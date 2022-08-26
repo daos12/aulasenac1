@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+}
+
+.nomeBanda,.headline,.logo{
+    text-align: center;
+}
+z
+p{
+    text-align: justify;
+}
+
+body{
+    background-position: center; /*Coloca imagem no centr*/
+    background-repeat: no-repeat; /*Não deixa imagem repetir*/
+    background-size: cover; /*Cobre toda tela do site*/
+
+    font-family: sans-serif, Arial;
+    color: white;
+    line-height: 1.5;
+
+    height: 92vh; 
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+}
+
+main{
+    background: #bb3f0094;
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.shows{
+    margin: 30px 0;
+    text-align: center;
+    
+}
+
+
+.shows table{
+    background: #004a6161;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+
+    border-spacing: 50px 10px;
+}
